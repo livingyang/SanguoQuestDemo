@@ -2,4 +2,4 @@
 
 [Open Web Desktop Demo](web-desktop/)
 
-[Download Android Apk](./SanguoQuest-debug.apk)
+[Download Android Demo Apk](./SanguoQuest-debug.apk)
