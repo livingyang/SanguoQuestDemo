@@ -1,8 +1,5 @@
+[Open Web Mobile Demo](web-mobile/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Open Web Desktop Demo](web-desktop/)
 
-[Mobile Demo](web-mobile/)
-
-[Desktop Demo](web-desktop/)
-
-[Download Android Apk](web-mobile/)
+[Download Android Apk](SanguoQuest-debug.apk/)
